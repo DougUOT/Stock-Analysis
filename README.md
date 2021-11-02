@@ -1,2 +1,2 @@
 # Stock-Analysis
-Stock-Analysis using V
+Stock-Analysis using VBA
