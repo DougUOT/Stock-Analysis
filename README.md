@@ -12,9 +12,13 @@ We analyze 12 stocks from companies related to 2017 and 2018, considering annual
 
 ## All Stock (2017)
 
+![](Resources/VBA_Challenge_Refactored_2017.PNG)
+
 Regarding 12 stocks analyzed in 2017, only the ticker "TERP" showed a negative return of -7.2%. All other stocks had positive results. Some highlights were for stocks with positive results above 100% return, such as DQ, ENPH, FSLR and SEDG, which had 199.4%, 129.5%, 101.3% and 184.5%, respectively. The most significant return was for the DQ stock with 199.4%.
 
 ## All Stock (2018)
+
+![](Resources/VBA_Challenge_Refactored_2018.PNG)
 
 On the other hand, of the 12 stocks analyzed in 2018, only two tickers had a positive return, ENPH and RUN, with respectively 81.9% and 84%. All other stocks have negative results.
 
