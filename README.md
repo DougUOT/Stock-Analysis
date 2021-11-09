@@ -18,7 +18,7 @@ Regarding 12 stocks analyzed in 2017, only the ticker "TERP" showed a negative r
 
 ## All Stock (2018)
 
-![](Resources/VBA_Challenge_Refactored_2018.PNG)
+![](Resources/VBA_Challenge_Refactorede_2018.PNG)
 
 On the other hand, of the 12 stocks analyzed in 2018, only two tickers had a positive return, ENPH and RUN, with respectively 81.9% and 84%. All other stocks have negative results.
 
