@@ -9,7 +9,9 @@ For this project, students from Data Analytics need to apply all concepts that w
 # Results
 
 We analyze 12 stocks from companies related to 2017 and 2018, considering annual return and total volume. The results below could help Steve with financial advice and an overview of results to help him make the better decision for future stock investments in Wall Street.
-All Stock (2017) vs (2018)
+
+## All Stock (2017)
+
 Regarding 12 stocks analyzed in 2017, only the ticker "TERP" showed a negative return of -7.2%. All other stocks had positive results. Some highlights were for stocks with positive results above 100% return, such as DQ, ENPH, FSLR and SEDG, which had 199.4%, 129.5%, 101.3% and 184.5%, respectively. The most significant return was for the DQ stock with 199.4%.
 
 ## All Stock (2018)
@@ -17,6 +19,8 @@ Regarding 12 stocks analyzed in 2017, only the ticker "TERP" showed a negative r
 On the other hand, of the 12 stocks analyzed in 2018, only two tickers had a positive return, ENPH and RUN, with respectively 81.9% and 84%. All other stocks have negative results.
 
 ## All Stock (2017) vs (2018)
+
+<img src="Screenshot/Comp all stocks 2017 vs 2018.png>
 
 However, when we compare both results report to Total Dialy Volume between 2017 and 2018, we have two interesting results to consider. In terms of total daily volume, we have three stocks with positive results above 87%, even considering some of them with negative results between both years, such as DQ, ENPH and RUN. For example, The DQ Stock in 2017 had 35,796,200 in total daily volume and in 2018, the result was 107,873,900, representing an increase of 201.4% of total daily volume.
 
