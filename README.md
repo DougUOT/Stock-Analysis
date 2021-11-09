@@ -20,7 +20,7 @@ On the other hand, of the 12 stocks analyzed in 2018, only two tickers had a pos
 
 ## All Stock (2017) vs (2018)
 
-<img src="Screenshot/Comp all stocks 2017 vs 2018.png>
+![](Resources/Comp%20all%20stocks%202017%20vs%202018.PNG)
 
 However, when we compare both results report to Total Dialy Volume between 2017 and 2018, we have two interesting results to consider. In terms of total daily volume, we have three stocks with positive results above 87%, even considering some of them with negative results between both years, such as DQ, ENPH and RUN. For example, The DQ Stock in 2017 had 35,796,200 in total daily volume and in 2018, the result was 107,873,900, representing an increase of 201.4% of total daily volume.
 
